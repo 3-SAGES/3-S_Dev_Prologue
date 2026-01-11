@@ -1,10 +1,6 @@
 # Dev_Prologue 📖
 
-> **"Where the story begins."**
-
-A peaceful space dedicated to the foundational chapters of my development journey. This archive documents my early learning path—from university coursework to independent studies—showcasing the genuine work, growth, and finished projects behind every milestone.
-
----
+> **"Where the story begins. A peaceful space dedicated to the foundational chapters of my development journey."**
 
 ## 🍃 The Philosophy
 Unlike a "junkyard" of broken code, this repository is a curated collection of **completed** efforts. It represents the groundwork of my skills. Every folder here signifies a concept learned, a challenge overcome, and a step taken from beginner to developer.
