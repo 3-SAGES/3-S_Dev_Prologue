@@ -14,7 +14,7 @@ Unlike a "junkyard" of broken code, this repository is a curated collection of *
 
 | Project / Module | Tech Stack | Key Concepts | Status |
 | :--- | :--- | :--- | :--- |
-| **[Algorithmic Logic]** | `C++` | Pointers, Memory Management | ✅ Completed |
+| **[The Geometric Soul](https://github.com/3-SAGES/3-S_Dev_Prologue/tree/main/THE_GEOMETRIC_SOUL)** | `Python` | OOP, Procedural Generation, Game Loop, ASCII Rendering | ✅ Completed |
 
 ### 📚 Courses & Tutorials
 *Certifications, bootcamps, and guided learning paths.*
@@ -47,6 +47,6 @@ Unlike a "junkyard" of broken code, this repository is a curated collection of *
 ## 📈 Progression Log
 *A timeline of major milestones in this prologue.*
 
-*   **[YYYY-MM]**: Uploaded first University final project.
-*   **[YYYY-MM]**: Completed Bookbot on Boot.dev.
+*   **[2026-03]**: Uploaded first University final project.
+*   **[2026-01]**: Completed Bookbot on Boot.dev.
 *   **[2026-01]**: Repository created.
