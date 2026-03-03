@@ -23,11 +23,9 @@ Unlike a "junkyard" of broken code, this repository is a curated collection of *
 | :--- | :--- | :--- | :--- |
 | [**Boot.dev**](https://www.boot.dev/courses/build-bookbot-python) | [**Bookbot**](https://github.com/3-SAGES/3-S_Dev_Prologue/tree/main/Bookbot) | 1st Python Project | Static text analyzer & File I/O |
 
----
-
 | Certifications | 
 | :--- |
-| [**Boot.dev**](https://www.boot.dev/u/3_sages) |
+| [**Boot.dev Profile**](https://www.boot.dev/u/3_sages) |
 
 ### 🌱 Personal Explorations
 *Self-directed projects applying what I've learned.*
